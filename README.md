@@ -53,7 +53,7 @@ You can now use the `heroku` CLI program - try running `heroku apps` to confirm 
 
 We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 
-**June 18, 2024,** Add Mongo back into template
+
 
 **June 14, 2024,** Temporarily remove Mongo until the key issue is resolved
 
